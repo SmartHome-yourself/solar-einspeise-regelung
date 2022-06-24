@@ -8,6 +8,8 @@ https://www.youtube.com/channel/UCWzgOrFuh82znXetsW3pmAA
 YouTube Kanal von SmartHome yourself: 
 https://www.youtube.com/SmartHomeYourselfDe_DIY
 
+[![Solar Einspeise Regelung](http://img.youtube.com/vi/vjyYpQObzd4/0.jpg)](https://www.youtube.com/watch?v=vjyYpQObzd4 "Solar Einspeise Regelung")
+
 ## Das Projekt
 Das Projekt Regelt, ob der Solarstrom zum laden der Batterie oder zum einspeisen ins Hausnetz verwendet werden soll. 
 
@@ -25,4 +27,4 @@ Solange keine WiFi Zugangsdaten eingetragen sind, stellt das System einen WLAN-A
 
 
 ### Weitere Informationen findet Ihr unter: 
-https://smarthomeyourself.de/anleitung-zum-selber-bauen/unabhaengige-projekte/arduino-und-esp-projekte/solar-einspeise-regelung-utuberlars/
+https://smarthomeyourself.de/unabhaengige-projekte/arduino-und-esp-projekte/solar-einspeise-regelung-utuberlars/
